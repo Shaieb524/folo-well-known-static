@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "build": "mkdir -p dist/.well-known && cp well-known/* dist/.well-known/"
+    "build": "mkdir -p dist && cp well-known/* dist/"
   }
 }

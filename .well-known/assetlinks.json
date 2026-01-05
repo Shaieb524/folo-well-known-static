@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "shop.folo.client.mobileapp",
+      "sha256_cert_fingerprints": [
+        "8C:CF:69:48:42:30:D7:15:92:79:72:CD:B8:F0:81:7A:B8:81:03:3E:95:4C:0D:ED:52:66:E9:11:00:43:48:58"
+      ]
+    }
+  }
+]
